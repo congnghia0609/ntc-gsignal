@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"net/http"
 	"net/url"
-	nroom "ntc-gsignal/room"
 	"sync"
 	"time"
+
+	nroom "github.com/congnghia0609/ntc-gsignal/room"
 
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog/log"

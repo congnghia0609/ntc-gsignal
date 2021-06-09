@@ -3,7 +3,8 @@ package gsignal
 import (
 	"net/http"
 	"net/url"
-	"ntc-gsignal/api"
+
+	"github.com/congnghia0609/ntc-gsignal/api"
 
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"

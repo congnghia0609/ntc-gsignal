@@ -9,8 +9,9 @@ import (
 	"log"
 	"math/rand"
 	"net/url"
-	"ntc-gsignal/gsignal"
 	"os"
+
+	"github.com/congnghia0609/ntc-gsignal/gsignal"
 )
 
 type SignalServer struct {
